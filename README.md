@@ -9,7 +9,7 @@
    "name": "Henrik",
    "location": "Hamburg, Germany 🇩🇪",
    "favs": [
-     "Flutter",
+     "Dart",
      "C#",
      "Java",
      "Python",
