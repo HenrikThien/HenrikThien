@@ -2,11 +2,6 @@
 <p align="justify">
   I'm a code addicted software developer from Germany 🇩🇪.
 </p>
-
-<br>
- <strong>Infos</strong>
-<br>
-
  ```javascript
 {
   "user": {
