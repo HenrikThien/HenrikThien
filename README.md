@@ -1,11 +1,10 @@
 ### Hi there 👋💻
-<div style="display:flex">
-<p style="float:left;">
- I'm a code addicted software developer from Germany.🇩🇪🤓<br>
- <strong>Infos</strong> 
-</p>
-<img style="float:right;" src="https://octodex.github.com/images/baracktocat.jpg" height="128" width="128" />
-</div>
+ I'm a code addicted software developer from Germany.🇩🇪🤓
+<img src="https://octodex.github.com/images/baracktocat.jpg" height="128" width="128" style="float:right" />
+
+<br>
+ <strong>Infos</strong>
+ <br>
 
  ```json
 {
