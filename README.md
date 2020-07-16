@@ -7,11 +7,11 @@
  <strong>Infos</strong>
 <br>
 
- ```json
+ ```javascript
 {
   "user": {
    "name": "Henrik",
-   "location": "Hamburg, Germany 🇩",
+   "location": "Hamburg, Germany 🇩🇪",
    "favs": [
      "Flutter",
      "C#",
@@ -23,13 +23,14 @@
     "Backend development",
     "Cloud services",
     "Microservices",
-    "Domain driven design"
+    "Domain driven design",
+    "more to come...",
    ]
   }
 }
 ```
 
 
-### Creator of Planify
+### Creator of Planify ʕ•ᴥ•ʔ
 (coming soon into App- and Playstore...)<br><br>
 <img src="https://raw.githubusercontent.com/HenrikThien/planify/master/app_icon.png?token=ACCVCLEMWTBHUGI42NQO3VS7DFZL4" width="128" height="128" />
