@@ -1,7 +1,8 @@
 ### Hi there 👋💻
 I'm a code addicted software developer from Germany.🇩🇪🤓<br>
 <strong>Infos</strong>
-```json
+<div style="display:flex">
+ ```json
 {
   "favs": [
     "Flutter",
@@ -11,7 +12,9 @@ I'm a code addicted software developer from Germany.🇩🇪🤓<br>
   ],
 }
 ```
-<img style="float:right;" src="https://octodex.github.com/images/baracktocat.jpg" />
+<img style="float:right;" src="https://octodex.github.com/images/baracktocat.jpg" height="128" width="128" />
+</div>
+
 
 ## Creator of Planify
 (coming soon into App- and Playstore...)<br>
