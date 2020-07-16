@@ -13,14 +13,6 @@
      "C#",
      "Java",
      "Python",
-   ],
-   "more": [
-    "App development",
-    "Backend development",
-    "Cloud services",
-    "Microservices",
-    "Domain driven design",
-    "more to come...",
    ]
   }
 }
