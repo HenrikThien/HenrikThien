@@ -13,4 +13,5 @@ I'm a code addicted software developer from Germany.🇩🇪🤓<br>
 ```
 
 ## Creator of Planify
+(coming soon into App- and Playstore)
 <img src="https://raw.githubusercontent.com/HenrikThien/planify/master/app_icon.png?token=ACCVCLEMWTBHUGI42NQO3VS7DFZL4" width="128" height="128" />
