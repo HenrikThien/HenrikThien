@@ -1,23 +1,35 @@
-### Hi there 👋💻
- I'm a code addicted software developer from Germany.🇩🇪🤓
-<img src="https://octodex.github.com/images/baracktocat.jpg" height="128" width="128" style="float:right" />
+# Hi there, it's me, Henrik. ¯\\_(ツ)_/¯
+<p align="justify">
+  I'm a code addicted software developer from Germany 🇩🇪.
+</p>
 
 <br>
  <strong>Infos</strong>
- <br>
+<br>
 
  ```json
 {
-  "favs": [
-    "Flutter",
-    "C#",
-    "Java",
-    "Python",
-  ],
+  "user": {
+   "name": "Henrik",
+   "location": "Hamburg, Germany 🇩",
+   "favs": [
+     "Flutter",
+     "C#",
+     "Java",
+     "Python",
+   ],
+   "more": [
+    "App development",
+    "Backend development",
+    "Cloud services",
+    "Microservices",
+    "Domain driven design"
+   ]
+  }
 }
 ```
 
 
-## Creator of Planify
-(coming soon into App- and Playstore...)<br>
+### Creator of Planify
+(coming soon into App- and Playstore...)<br><br>
 <img src="https://raw.githubusercontent.com/HenrikThien/planify/master/app_icon.png?token=ACCVCLEMWTBHUGI42NQO3VS7DFZL4" width="128" height="128" />
