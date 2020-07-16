@@ -1,7 +1,12 @@
 ### Hi there 👋💻
-I'm a code addicted software developer from Germany.🇩🇪🤓<br>
-<strong>Infos</strong>
 <div style="display:flex">
+<p style="float:left;">
+ I'm a code addicted software developer from Germany.🇩🇪🤓<br>
+ <strong>Infos</strong> 
+</p>
+<img style="float:right;" src="https://octodex.github.com/images/baracktocat.jpg" height="128" width="128" />
+</div>
+
  ```json
 {
   "favs": [
@@ -12,8 +17,6 @@ I'm a code addicted software developer from Germany.🇩🇪🤓<br>
   ],
 }
 ```
-<img style="float:right;" src="https://octodex.github.com/images/baracktocat.jpg" height="128" width="128" />
-</div>
 
 
 ## Creator of Planify
