@@ -1,17 +1,16 @@
 ### Hi there 👋💻
-I'm a code addicted software developer from Germany.🇩🇪🤓
+I'm a code addicted software developer from Germany.🇩🇪🤓<br>
+<strong>Infos</strong>
+```json
+{
+  "favs": [
+    "Flutter",
+    "C#",
+    "Java",
+    "Python",
+  ],
+}
+```
 
-<!--
-**HenrikThien/HenrikThien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Creator of Planify
+<img src="https://raw.githubusercontent.com/HenrikThien/planify/master/app_icon.png?token=ACCVCLEMWTBHUGI42NQO3VS7DFZL4" width="128" height="128" />
