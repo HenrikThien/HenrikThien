@@ -1,4 +1,4 @@
-# Hi there, it's me, Henrik. ¯\\_(ツ)_/¯
+# Hi there, I'm Henrik. ¯\\_(ツ)_/¯
 <p align="justify">
   I'm a code addicted software developer from Germany 🇩🇪.
 </p>
