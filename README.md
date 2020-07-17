@@ -7,7 +7,7 @@
 {
   "user": {
    "name": "Henrik",
-   "location": "Hamburg, Germany 🇩🇪",
+   "location": "Hamburg, Germany ⛵⚓",
    "favs": [
      "Dart",
      "C#",
