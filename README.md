@@ -27,3 +27,6 @@ The idea was to create a replica of the Firebase realtime database.
 <img src="https://i.imgur.com/ufAqxi5.png" width="128" height="128" />
 <br>
 (coming soon into App- and Playstore...)
+<br>
+<strong>iOS: <img src="https://build.appcenter.ms/v0.1/apps/a582751e-3eff-4ed6-8344-65129972e31a/branches/master/badge" /></strong><br>
+<strong>Android: <img src="https://build.appcenter.ms/v0.1/apps/aeb0d0da-a91d-4ec3-a9a3-a980240c3b84/branches/master/badge" /></strong>
