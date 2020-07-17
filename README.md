@@ -18,7 +18,7 @@
 }
 ```
 
-### Currently projects
+### Current project
 I'm currently working on my Planify project. It's a mobile app created with Flutter.<br>
 The project also contains a backend, which is made with Node (Express) and MongoDB.<br>
 The idea was to create a replica of the Firebase realtime database.
