@@ -10,7 +10,7 @@
    "location": "Hamburg, Germany ⛵⚓",
    "favs": [
      "Dart",
-     "C#",
+     "Typescript",
      "Java",
    ],
   }
