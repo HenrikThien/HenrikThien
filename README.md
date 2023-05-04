@@ -18,7 +18,7 @@
 ```
 
 ### Creator of 1-Minute.app
-<a href="https://1-minute.app"><img src="https://1-minute.app/img/logo.8842980b.png" width="128" height="128" /></a>
+<a href="https://1-minute.app"><img src="https://1-minute.app/images/logo.8842980b.png" width="128" height="128" /></a>
 
 ### Creator of Planify
 <img src="https://i.imgur.com/ufAqxi5.png" width="128" height="128" />
