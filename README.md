@@ -22,7 +22,6 @@
 
 ### Creator of Planify
 <img src="https://i.imgur.com/ufAqxi5.png" width="128" height="128" />
-(coming soon into App- and Playstore...)
-<br><br>
+<br>
 <strong>iOS: <img src="https://build.appcenter.ms/v0.1/apps/a582751e-3eff-4ed6-8344-65129972e31a/branches/master/badge" /></strong><br>
 <strong>Android: <img src="https://build.appcenter.ms/v0.1/apps/aeb0d0da-a91d-4ec3-a9a3-a980240c3b84/branches/master/badge" /></strong>
